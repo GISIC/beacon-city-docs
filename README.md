@@ -2,8 +2,8 @@
 
 Prototype server-side application to access detailed tourist information using mobile devices and beacons.
 
-Authors: Daniel Alejandro Mora Salcedo, Diego Andr閟 Apolinar Santos.
-Director: Ing. Carlos Andr閟 Lozano G.
+> **Authors:** Daniel Alejandro Mora Salcedo, Diego Andr茅s Apolinar Santos. <br/>
+> **Director:** Ing. Carlos Andr茅s Lozano G.
 
 # What is this ?
 
@@ -11,6 +11,6 @@ This project is the documentation for the prototype mobile application that prov
 
 # Que es esto ?
 
-Este proyecto es la documentaci髇 del prototipo de aplicaci髇 m髒il que provee informaci髇 detallada de los puntos de inter閟 en una ciudad.
+Este proyecto es la documentaci贸n del prototipo de aplicaci贸n m贸vil que provee informaci贸n detallada de los puntos de inter茅s en una ciudad.
 
 
